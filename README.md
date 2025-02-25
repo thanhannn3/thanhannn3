@@ -3,10 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=74c0fc&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Nguyễn+Nguyễn+Thành+An.;You+can+call+me+BlueNougat.">
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhannn3&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
-<img align="right" width="150px" alt="Unicorn" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif">
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhannn3&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="thanhannn3"> </p>
+<picture> 
+<a href="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif" alt="hello">
+<img align="right" width="150px" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif">
+</a>
+</picture>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=300&color=5D05F7&repeat=false&width=435&lines=Talking+about+Personal+Stuffs…;">
+</a><br>
 ✔ I'm an ungraduated student at VNUHCM - University of Information Technology (UIT)<br>
 ✔ I'm based in Ho Chi Minh City<br>
 ✔ I’m currently learning about Front-End Development<br>
